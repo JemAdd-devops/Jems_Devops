@@ -19,4 +19,4 @@ I am a Software Engineering graduate and the founder of **Enderasie Solutions**.
 My experience as a founder has ingrained in me a deep sense of ownership and a "business-first" approach to technology. Whether I am building a tender platform or managing complex systems, my goal is always efficiency, scalability, and security.
 
 ---
-📫 **Let's Connect:** LinkedIn: www.linkedin.com/in/jemal-adem-b20468184 | Email :jemjems035@gmail.com
+📫 **Let's Connect:** LinkedIn:  www.linkedin.com/in/jemal-adem-b20468184 | Email : jemjems035@gmail.com
